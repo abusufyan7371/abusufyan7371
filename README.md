@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @abusufyan7371
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Md Abusufyan Alam
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning PYTHON
+- 💞️ I’m looking to collaborate on Job
+- 📫 How to reach me 7371016214
 
 <!---
 abusufyan7371/abusufyan7371 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
